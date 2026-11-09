@@ -1,209 +1,224 @@
 <!--
-  GitHub Profile README
-  Username: thedirtyastro
-  Theme: Modern Dark
+  GitHub Profile README · thedirtyastro
+  Palette: midnight #0F172A · royal blue #1D4ED8 · cyan #06B6D4 · sky #38BDF8
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Sarukhan%20Muthuraman&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=240&section=header&text=Sarukhan%20Muthuraman&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Frontend%20Engineer%20%C2%B7%20Full%20Stack%20%C2%B7%20Web3&descAlignY=58&descSize=17" width="100%" alt="Sarukhan Muthuraman" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Full+Stack+Developer;Building+Modern+Web+Experiences;Web3+%26+Blockchain+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Crafting+pixel-perfect+interfaces;React.js+%7C+Next.js+%7C+TypeScript;Building+Web3+%26+blockchain+experiences;Turning+complex+ideas+into+simple+interactions" alt="Typing animation" />
 
-<p>
-  <a href="https://github.com/thedirtyastro">
-    <img src="https://komarev.com/ghpvc/?username=thedirtyastro&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-  </a>
-</p>
+<br/>
 
-<p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<a href="https://portfolio-weld-mu-dw8u3j4h6w.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sarukhan-muthuraman/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+<a href="https://x.com/thedirtyastro"><img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=38BDF8" alt="X" /></a>
+<a href="https://instagram.com/thedirtyastro"><img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=38BDF8" alt="Instagram" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=thedirtyastro&label=PROFILE+VIEWS&color=1D4ED8&style=flat-square" alt="Profile views" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=2" width="100%" alt="" />
 
-I'm **Sarukhan Muthuraman**, a Frontend-Focused Full Stack Developer with **2 years and 9 months of professional experience** building modern, responsive, and scalable web applications.
+## 👋 &nbsp;Hello, I'm Sarukhan
 
-I specialize in creating intuitive user interfaces and seamless digital experiences using React.js, Next.js, TypeScript, and JavaScript.
+I'm a **frontend-focused full stack developer** with **2 years and 9 months** of experience building fast, responsive and scalable web applications. I care about the details that make an interface *feel* right: clean structure, smooth motion and thoughtful UX.
 
-I also have experience developing backend services, integrating REST APIs, and building Web3 and blockchain applications.
+```js
+const sarukhan = {
+  role: "Frontend-Focused Full Stack Developer",
+  experience: "2 yrs 9 mos",
+  craft: ["React.js", "Next.js", "TypeScript", "UI / UX"],
+  alsoWorkWith: ["Web3 & Blockchain", "Java · Spring Boot", "REST APIs", "AWS EC2"],
+  careerInterests: ["Frontend Engineering", "Full Stack Development", "UI Engineering"],
+  alwaysDoing: "Learning something new",
+  funFact: "I enjoy turning complex ideas into simple, interactive experiences.",
+};
+```
 
-- 💻 Primary focus: Frontend & Web Development
-- ⚛️ Specialization: React.js, Next.js, TypeScript
-- 🎨 Passionate about UI/UX and modern web experiences
-- 🔗 Experience with Web3 and blockchain applications
-- ⚙️ Backend experience: Java, Spring Boot, REST APIs
-- ☁️ Cloud experience: AWS EC2
-- 🌱 Always learning and exploring new technologies
-- 🎯 Career interests: Frontend Engineering, Full Stack Development, UI Engineering
+<br/>
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,threejs" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-### Database & Storage
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,redis" />
-</p>
-
-### Cloud, DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vercel,postman,vscode,figma" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="33%" valign="top" align="center">
 
-### 🎰 Kaching
-**Web3 Lottery Platform**
-
-A multi-chain Web3 lottery application with wallet connectivity and blockchain integrations.
-
-**Tech:** Next.js, React, Tailwind CSS, Web3
+### 🎨 Frontend
+Interfaces that are fast, accessible and a pleasure to use, built with React, Next.js and TypeScript.
 
 </td>
-<td width="50%">
+<td width="33%" valign="top" align="center">
 
-### 🔄 Kana Swap
-**Cross-chain Swap Aggregator**
-
-A Web3 swap interface integrating cross-chain aggregation and blockchain wallet connectivity.
-
-**Tech:** React, Next.js, TypeScript, Web3
+### 🔗 Web3
+Wallet connectivity, cross-chain flows and on-chain trading UIs for blockchain products.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" valign="top" align="center">
 
-### 📈 Kana Perps
-**Decentralized Perpetual Trading**
-
-A perpetual trading platform with a central limit order book on Aptos.
-
-**Tech:** Next.js, TypeScript, Aptos
-
-</td>
-<td width="50%">
-
-### 💰 Rocket Finance
-**Peer-to-Peer Lending Platform**
-
-A financial application for peer-to-peer lending with backend API development.
-
-**Tech:** Java, Spring Boot, MySQL
+### ⚙️ Backend & Cloud
+REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 </td>
 </tr>
 </table>
 
-> 📌 Add your actual repository links and project screenshots to these cards.
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=2" width="100%" alt="" />
 
-## 📊 GitHub Statistics
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thedirtyastro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,java,html,css&theme=dark" alt="Languages" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,threejs&theme=dark" alt="Frontend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="Backend" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,redis&theme=dark" alt="Databases" /> |
+| **Cloud & Tools** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vercel,postman,vscode,figma&theme=dark" alt="Cloud and tools" /> |
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedirtyastro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=thedirtyastro&theme=tokyonight&hide_border=true" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=2" width="100%" alt="" />
 
-</div>
+## 🚀 &nbsp;Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📈 Contribution Activity
+### 🎰 Kaching
+**Multi-chain Web3 lottery platform**
+
+A multi-chain lottery application with wallet connectivity and blockchain integrations.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Web3](https://img.shields.io/badge/Web3-1D4ED8?style=flat-square&logo=ethereum&logoColor=white)
+
+<!-- Add link: [🔗 View project](https://...) -->
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 Kana Swap
+**Cross-chain swap aggregator**
+
+A swap interface that aggregates liquidity across chains, with seamless wallet connectivity.
+
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-1D4ED8?style=flat-square&logo=ethereum&logoColor=white)
+
+<!-- Add link: [🔗 View project](https://...) -->
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Kana Perps
+**Decentralized perpetual trading**
+
+A perpetuals trading platform powered by a central limit order book on Aptos.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Aptos](https://img.shields.io/badge/Aptos-0F172A?style=flat-square&logo=aptos&logoColor=white)
+
+<!-- Add link: [🔗 View project](https://...) -->
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Rocket Finance
+**Peer-to-peer lending platform**
+
+A lending application with backend API development for borrowers and lenders.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<!-- Add link: [🔗 View project](https://...) -->
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=2" width="100%" alt="" />
+
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thedirtyastro&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=thedirtyastro&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=06B6D4&text_color=C9D1D9&ring_color=1D4ED8" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedirtyastro&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages" />
 
-</div>
+<br/>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/thedirtyastro/thedirtyastro/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in connecting with developers, collaborating on exciting projects, and exploring new opportunities.
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/thedirtyastro">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=thedirtyastro&hide_border=true&background=0D1117&ring=06B6D4&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" width="70%" />
 
 <br/><br/>
 
-**💬 Fun Fact:** I enjoy turning complex ideas into simple, interactive user experiences.
+<img src="https://github-profile-trophy.vercel.app/?username=thedirtyastro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
 
 </div>
 
----
+<br/>
+
+### 📈 Contribution Activity
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thedirtyastro&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=1D4ED8&point=FFFFFF" width="100%" alt="Contribution graph" />
+
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thedirtyastro/thedirtyastro/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=2" width="100%" alt="" />
+
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+Always happy to connect with developers, collaborate on interesting projects and explore new opportunities.
+
+<br/>
+
+<a href="https://portfolio-weld-mu-dw8u3j4h6w.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sarukhan-muthuraman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/thedirtyastro"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
 
 *Code. Create. Learn. Repeat.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="" />
 
 </div>
