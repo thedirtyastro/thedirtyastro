@@ -18,7 +18,6 @@
 <a href="https://instagram.com/thedirtyastro"><img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=E5E7EB" alt="Instagram" /></a>
 <a href="mailto:s.saru7072@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=E5E7EB" alt="Email" /></a>
 
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=thedirtyastro&label=PROFILE+VIEWS&color=3F3F46&style=flat-square" alt="Profile views" />
 
