@@ -11,8 +11,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-
       - uses: Platane/snk@v3
         with:
           github_user_name: thedirtyastro
@@ -20,39 +18,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: actions/github-script@v7
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          script: |
-            const fs = require('fs');
-            const path = require('path');
-
-            const files = {
-              'github-contribution-grid-snake.svg': fs.readFileSync('dist/github-contribution-grid-snake.svg', 'utf8'),
-              'github-contribution-grid-snake-dark.svg': fs.readFileSync('dist/github-contribution-grid-snake-dark.svg', 'utf8'),
-            };
-
-            let treeSHA, parentSHA;
-            try {
-              const ref = await github.rest.git.getRef({ owner: context.repo.owner, repo: context.repo.repo, ref: 'heads/output' });
-              parentSHA = ref.data.object.sha;
-              const commit = await github.rest.git.getCommit({ owner: context.repo.owner, repo: context.repo.repo, commit_sha: parentSHA });
-              treeSHA = commit.data.tree.sha;
-            } catch {
-              parentSHA = null;
-              treeSHA = null;
-            }
-
-            const blobs = await Promise.all(Object.entries(files).map(async ([name, content]) => {
-              const blob = await github.rest.git.createBlob({ owner: context.repo.owner, repo: context.repo.repo, content, encoding: 'utf-8' });
-              return { path: name, mode: '100644', type: 'blob', sha: blob.data.sha };
-            }));
-
-            const tree = await github.rest.git.createTree({ owner: context.repo.owner, repo: context.repo.repo, tree: blobs, ...(treeSHA ? { base_tree: treeSHA } : {}) });
-            const newCommit = await github.rest.git.createCommit({ owner: context.repo.owner, repo: context.repo.repo, message: 'chore: update snake animation', tree: tree.data.sha, ...(parentSHA ? { parents: [parentSHA] } : { parents: [] }) });
-
-            try {
-              await github.rest.git.updateRef({ owner: context.repo.owner, repo: context.repo.repo, ref: 'heads/output', sha: newCommit.data.sha });
-            } catch {
-              await github.rest.git.createRef({ owner: context.repo.owner, repo: context.repo.repo, ref: 'refs/heads/output', sha: newCommit.data.sha });
-            }
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          force_orphan: true
