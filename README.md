@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Sarukhan Muthuraman — Frontend & Full Stack Developer" />
+<img src="assets/banner.webp" width="100%" alt="Sarukhan Muthuraman — Frontend & Full Stack Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=D1D5DB&center=true&vCenter=true&width=640&lines=Crafting+pixel-perfect+interfaces;React.js+%7C+Next.js+%7C+TypeScript;Building+Web3+%26+blockchain+experiences;Turning+complex+ideas+into+simple+interactions" alt="Typing animation" />
 
@@ -94,8 +94,8 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <div align="center">
 
-<a href="https://github.com/thedirtyastro/Outreach-CRM"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thedirtyastro&repo=Outreach-CRM&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&border_color=27272A" alt="Outreach-CRM repository" /></a>
-<a href="https://github.com/thedirtyastro/portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thedirtyastro&repo=portfolio&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&border_color=27272A" alt="portfolio repository" /></a>
+<a href="https://github.com/thedirtyastro/Outreach-CRM"><img width="49%" src="https://YOUR_VERCEL_APP.vercel.app/api/pin/?username=thedirtyastro&repo=Outreach-CRM&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&border_color=27272A" alt="Outreach-CRM repository" /></a>
+<a href="https://github.com/thedirtyastro/portfolio"><img width="49%" src="https://YOUR_VERCEL_APP.vercel.app/api/pin/?username=thedirtyastro&repo=portfolio&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&border_color=27272A" alt="portfolio repository" /></a>
 
 <br/>
 
@@ -113,8 +113,8 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thedirtyastro&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=E5E7EB&icon_color=9CA3AF&text_color=C9D1D9&ring_color=D1D5DB" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedirtyastro&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=E5E7EB&text_color=C9D1D9" alt="Top languages" />
+<img height="180" src="https://YOUR_VERCEL_APP.vercel.app/api?username=thedirtyastro&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=E5E7EB&icon_color=9CA3AF&text_color=C9D1D9&ring_color=D1D5DB" alt="GitHub stats" />
+<img height="180" src="https://YOUR_VERCEL_APP.vercel.app/api/top-langs/?username=thedirtyastro&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=E5E7EB&text_color=C9D1D9" alt="Top languages" />
 
 <br/>
 
