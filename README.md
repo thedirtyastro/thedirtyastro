@@ -5,9 +5,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=240&section=header&text=Sarukhan%20Muthuraman&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Frontend%20Engineer%20%C2%B7%20Full%20Stack%20%C2%B7%20Web3&descAlignY=58&descSize=17" width="100%" alt="Sarukhan Muthuraman" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:13233F,100:0F4C5C&height=240&section=header&text=Sarukhan%20Muthuraman&fontSize=42&fontColor=E2E8F0&fontAlignY=38&animation=twinkling&desc=Frontend%20Engineer%20%C2%B7%20Full%20Stack%20%C2%B7%20Web3&descAlignY=58&descSize=17" width="100%" alt="Sarukhan Muthuraman" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Crafting+pixel-perfect+interfaces;React.js+%7C+Next.js+%7C+TypeScript;Building+Web3+%26+blockchain+experiences;Turning+complex+ideas+into+simple+interactions" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7FB2D9&center=true&vCenter=true&width=640&lines=Crafting+pixel-perfect+interfaces;React.js+%7C+Next.js+%7C+TypeScript;Building+Web3+%26+blockchain+experiences;Turning+complex+ideas+into+simple+interactions" alt="Typing animation" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:1E3A5F,100:0F4C5C&height=2" width="100%" alt="" />
 
 ## 👋 &nbsp;Hello, I'm Sarukhan
 
@@ -70,7 +70,7 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:1E3A5F,100:0F4C5C&height=2" width="100%" alt="" />
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -88,7 +88,7 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:1E3A5F,100:0F4C5C&height=2" width="100%" alt="" />
 
 ## 🚀 &nbsp;Featured Projects
 
@@ -159,7 +159,7 @@ A lending application with backend API development for borrowers and lenders.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:1E3A5F,100:0F4C5C&height=2" width="100%" alt="" />
 
 ## 📊 &nbsp;GitHub Stats
 
@@ -200,7 +200,7 @@ A lending application with backend API development for borrowers and lenders.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:1E3A5F,100:0F4C5C&height=2" width="100%" alt="" />
 
 ## 🤝 &nbsp;Let's Connect
 
@@ -219,6 +219,6 @@ Always happy to connect with developers, collaborate on interesting projects and
 
 *Code. Create. Learn. Repeat.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C5C,50:13233F,100:0B1220&height=120&section=footer&animation=twinkling" width="100%" alt="" />
 
 </div>
