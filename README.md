@@ -113,8 +113,8 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sarukhans-projects.vercel.app/api?username=thedirtyastro&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=E5E7EB&icon_color=9CA3AF&text_color=C9D1D9&ring_color=D1D5DB" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats-sarukhans-projects.vercel.app/api/top-langs/?username=thedirtyastro&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=E5E7EB&text_color=C9D1D9" alt="Top languages" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=thedirtyastro&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=thedirtyastro&layout=compact&langs_count=4&theme=dark" alt="Top languages" />
 
 <br/>
 
