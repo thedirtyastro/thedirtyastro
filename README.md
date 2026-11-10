@@ -113,26 +113,13 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=thedirtyastro&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub stats" />
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=thedirtyastro&layout=compact&langs_count=4&theme=dark" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=thedirtyastro&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=thedirtyastro&layout=compact&langs_count=4&theme=dark&card_width=467" alt="Top languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=thedirtyastro&hide_border=true&background=0D1117&ring=9CA3AF&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" width="70%" />
 
-<br/><br/>
-
-<img src="https://YOUR_TROPHY_APP.vercel.app/?username=thedirtyastro&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
-
-</div>
-
-<br/>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://ghchart.ssh.surf/thedirtyastro" width="100%" alt="Contribution graph" />
 
 </div>
 
