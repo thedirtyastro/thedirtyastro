@@ -94,8 +94,8 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <div align="center">
 
-<a href="https://github.com/thedirtyastro/Outreach-CRM"><img width="49%" src="https://YOUR_VERCEL_APP.vercel.app/api/pin/?username=thedirtyastro&repo=Outreach-CRM&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&border_color=27272A" alt="Outreach-CRM repository" /></a>
-<a href="https://github.com/thedirtyastro/portfolio"><img width="49%" src="https://YOUR_VERCEL_APP.vercel.app/api/pin/?username=thedirtyastro&repo=portfolio&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&border_color=27272A" alt="portfolio repository" /></a>
+<a href="https://github.com/thedirtyastro/Outreach-CRM"><img width="49%" src="https://github-readme-stats-swart-one-c6tcm4emqv.vercel.app/api/pin/?username=thedirtyastro&repo=Outreach-CRM&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&border_color=27272A" alt="Outreach-CRM repository" /></a>
+<a href="https://github.com/thedirtyastro/portfolio"><img width="49%" src="https://github-readme-stats-swart-one-c6tcm4emqv.vercel.app/api/pin/?username=thedirtyastro&repo=portfolio&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&border_color=27272A" alt="portfolio repository" /></a>
 
 <br/>
 
@@ -113,8 +113,8 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <div align="center">
 
-<img height="180" src="https://YOUR_VERCEL_APP.vercel.app/api?username=thedirtyastro&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=E5E7EB&icon_color=9CA3AF&text_color=C9D1D9&ring_color=D1D5DB" alt="GitHub stats" />
-<img height="180" src="https://YOUR_VERCEL_APP.vercel.app/api/top-langs/?username=thedirtyastro&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=E5E7EB&text_color=C9D1D9" alt="Top languages" />
+<img height="180" src="https://github-readme-stats-swart-one-c6tcm4emqv.vercel.app/api?username=thedirtyastro&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=E5E7EB&icon_color=9CA3AF&text_color=C9D1D9&ring_color=D1D5DB" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats-swart-one-c6tcm4emqv.vercel.app/api/top-langs/?username=thedirtyastro&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=E5E7EB&text_color=C9D1D9" alt="Top languages" />
 
 <br/>
 
@@ -122,7 +122,7 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=thedirtyastro&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
+<img src="https://YOUR_TROPHY_APP.vercel.app/?username=thedirtyastro&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
 
 </div>
 
@@ -132,7 +132,7 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thedirtyastro&bg_color=0D1117&color=9CA3AF&line=D1D5DB&point=FFFFFF&area_color=6B7280&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+<img src="https://ghchart.ssh.surf/thedirtyastro" width="100%" alt="Contribution graph" />
 
 </div>
 
