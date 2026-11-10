@@ -94,10 +94,7 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <div align="center">
 
-<a href="https://github.com/thedirtyastro/Outreach-CRM"><img width="49%" src="https://github-readme-stats-sarukhans-projects.vercel.app/api/pin/?username=thedirtyastro&repo=Outreach-CRM&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&border_color=27272A" alt="Outreach-CRM repository" /></a>
-<a href="https://github.com/thedirtyastro/portfolio"><img width="49%" src="https://github-readme-stats-sarukhans-projects.vercel.app/api/pin/?username=thedirtyastro&repo=portfolio&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&border_color=27272A" alt="portfolio repository" /></a>
 
-<br/>
 
 <a href="https://github.com/thedirtyastro/Outreach-CRM"><img src="https://img.shields.io/badge/Outreach--CRM-View_Repo-18181B?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="View Outreach-CRM" /></a>
 <a href="https://github.com/thedirtyastro/portfolio"><img src="https://img.shields.io/badge/portfolio-View_Repo-18181B?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="View portfolio" /></a>
