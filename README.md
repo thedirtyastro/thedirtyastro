@@ -1,6 +1,7 @@
 <!--
   GitHub Profile README · thedirtyastro
-  Palette: platinum — onyx #0A0A0B · graphite #27272A · steel #6B7280 · silver #D1D5DB
+  Visual direction: Platinum / Onyx
+  Onyx #0A0A0B · Graphite #27272A · Steel #6B7280 · Silver #D1D5DB
 -->
 
 <div align="center">
@@ -11,13 +12,14 @@
 
 <br/>
 
-<a href="https://portfolio-weld-mu-dw8u3j4h6w.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=E5E7EB" alt="Portfolio" /></a>
+<a href="https://sarukhan-muthuraman-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=E5E7EB" alt="Portfolio" /></a>
 <a href="https://github.com/thedirtyastro"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/sarukhan-muthuraman/"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=E5E7EB" alt="LinkedIn" /></a>
 <a href="https://x.com/thedirtyastro"><img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=E5E7EB" alt="X" /></a>
 <a href="https://instagram.com/thedirtyastro"><img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=E5E7EB" alt="Instagram" /></a>
 <a href="mailto:s.saru7072@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=E5E7EB" alt="Email" /></a>
 
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=thedirtyastro&label=PROFILE+VIEWS&color=3F3F46&style=flat-square" alt="Profile views" />
 
@@ -29,43 +31,42 @@
 
 ## 👋 &nbsp;Hello, I'm Sarukhan
 
-I'm a **frontend-focused full stack developer** with **2 years and 9 months** of experience building fast, responsive and scalable web applications. I care about the details that make an interface *feel* right: clean structure, smooth motion and thoughtful UX.
+I'm a **frontend-focused full-stack developer** with **2 years and 9 months** of experience building fast, responsive, and scalable web applications. I care about the details that make an interface *feel* right: clean structure, smooth motion, accessible interactions, and thoughtful UX.
+
+I work across the frontend and the systems that support it, from reusable component architecture and API integration to backend services and deployment.
 
 ```js
 const sarukhan = {
-  role: "Frontend-Focused Full Stack Developer",
-  experience: "2 yrs 9 mos",
-  craft: ["React.js", "Next.js", "TypeScript", "UI / UX"],
+  role: "Frontend-Focused Full-Stack Developer",
+  experience: "2 years, 9 months",
+  primaryStack: ["React.js", "Next.js", "TypeScript", "UI / UX"],
   alsoWorkWith: ["Web3 & Blockchain", "Java · Spring Boot", "REST APIs", "AWS EC2"],
-  careerInterests: ["Frontend Engineering", "Full Stack Development", "UI Engineering"],
-  alwaysDoing: "Learning something new",
-  funFact: "I enjoy turning complex ideas into simple, interactive experiences.",
+  interests: ["Frontend Engineering", "Full-Stack Development", "UI Engineering"],
+  currently: "Building, learning, and shipping",
+  principle: "Make complex ideas feel simple to use.",
 };
 ```
 
 <br/>
 
 <table align="center">
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 🎨 Frontend
-Interfaces that are fast, accessible and a pleasure to use, built with React, Next.js and TypeScript.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🔗 Web3
-Wallet connectivity, cross-chain flows and on-chain trading UIs for blockchain products.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### ⚙️ Backend & Cloud
-REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>01 / Frontend</h3>
+      <p>Fast, accessible interfaces with deliberate visual hierarchy, responsive layouts, and reusable components.</p>
+      <sub>React · Next.js · TypeScript</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>02 / Web3</h3>
+      <p>Wallet connectivity, multi-chain flows, and on-chain trading interfaces for blockchain products.</p>
+      <sub>Wallets · SDKs · dApps</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>03 / Backend & Cloud</h3>
+      <p>REST APIs and application services, with practical experience in deployment and integration.</p>
+      <sub>Spring Boot · SQL · AWS</sub>
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -76,13 +77,13 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <div align="center">
 
-| | |
+| **Area** | **Technologies** |
 |:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,java,html,css&theme=dark" alt="Languages" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,threejs&theme=dark" alt="Frontend" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="Backend" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,redis&theme=dark" alt="Databases" /> |
-| **Cloud & Tools** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vercel,postman,vscode,figma&theme=dark" alt="Cloud and tools" /> |
+| Languages | <img src="https://skillicons.dev/icons?i=js,ts,java,html,css&theme=dark" alt="JavaScript, TypeScript, Java, HTML, CSS" /> |
+| Frontend | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,threejs&theme=dark" alt="React, Next.js, Tailwind CSS, Redux, Three.js" /> |
+| Backend | <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="Spring, Node.js, Express" /> |
+| Databases | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,redis&theme=dark" alt="MySQL, MongoDB, PostgreSQL, Supabase, Redis" /> |
+| Cloud & Tools | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vercel,postman,vscode,figma&theme=dark" alt="AWS, Docker, Git, GitHub, Linux, Vercel, Postman, VS Code, Figma" /> |
 
 </div>
 
@@ -90,14 +91,13 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0B,50:52525B,100:0A0A0B&height=2" width="100%" alt="" />
 
-## 📂 &nbsp;Top Repositories
+## 📂 &nbsp;Featured Repositories
 
 <div align="center">
 
-
-
-<a href="https://github.com/thedirtyastro/Outreach-CRM"><img src="https://img.shields.io/badge/Outreach--CRM-View_Repo-18181B?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="View Outreach-CRM" /></a>
-<a href="https://github.com/thedirtyastro/portfolio"><img src="https://img.shields.io/badge/portfolio-View_Repo-18181B?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="View portfolio" /></a>
+<a href="https://github.com/thedirtyastro/Outreach-CRM"><img src="https://img.shields.io/badge/Outreach--CRM-Explore-18181B?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="Explore Outreach CRM" /></a>
+<a href="https://github.com/thedirtyastro/portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-18181B?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="Explore portfolio repository" /></a>
+<a href="https://github.com/thedirtyastro/picnsave"><img src="https://img.shields.io/badge/PicnSave-Explore-18181B?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="Explore PicnSave" /></a>
 <a href="https://github.com/thedirtyastro?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-27272A?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="All repositories" /></a>
 
 </div>
@@ -117,12 +117,11 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <img src="https://streak-stats.demolab.com?user=thedirtyastro&hide_border=true&background=0D1117&ring=9CA3AF&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" width="70%" />
 
-
 </div>
 
 <br/>
 
-### 🐍 Contribution Snake
+## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
 
@@ -138,11 +137,11 @@ REST APIs and services with Java and Spring Boot, deployed on AWS EC2.
 
 <div align="center">
 
-Always happy to connect with developers, collaborate on interesting projects and explore new opportunities.
+Always happy to connect with developers, collaborate on interesting projects, and explore new opportunities.
 
 <br/>
 
-<a href="https://portfolio-weld-mu-dw8u3j4h6w.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=E5E7EB" alt="Portfolio" /></a>
+<a href="https://sarukhan-muthuraman-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=E5E7EB" alt="Portfolio" /></a>
 <a href="https://github.com/thedirtyastro"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/sarukhan-muthuraman/"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=E5E7EB" alt="LinkedIn" /></a>
 <a href="https://x.com/thedirtyastro"><img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=E5E7EB" alt="X" /></a>
